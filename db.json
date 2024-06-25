@@ -1,0 +1,54 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Joel",
+      "Apellido": "Gaspar",
+      "Dni": "8489549",
+      "id": "bc9c"
+    },
+    {
+      "nombre": "juan",
+      "Apellido": "Salazar",
+      "Dni": "7959485",
+      "id": "1590"
+    },
+    {
+      "nombre": "Cesar",
+      "Apellido": "Quiñones",
+      "Dni": "85965",
+      "id": "2c25"
+    }
+  ],
+  "Tiktoker": [
+    {
+      "nombre": "Sergie Code",
+      "Plataforma": "Youtube",
+      "cursos": [
+        {
+          "nombre": "React JS",
+          "Dificultas": "Intermedio"
+        },
+        {
+          "nombre": "Node JS",
+          "Dificultas": "Intermedio"
+        }
+      ],
+      "id": "2f29"
+    },
+    {
+      "nombre": "Midu",
+      "Plataforma": "Youtube",
+      "cursos": [
+        {
+          "nombre": "React JS",
+          "Dificultas": "Intermedio"
+        },
+        {
+          "nombre": "JavaScript",
+          "Dificultas": "Intermedio"
+        }
+      ],
+      "id": "3559"
+    }
+  ]
+}
